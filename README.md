@@ -1,2 +1,2 @@
-# SubQuery3
+# SubQuery
 Module 3
